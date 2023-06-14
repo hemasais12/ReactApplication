@@ -1,0 +1,27 @@
+.main-nav{
+    height: 91.5vh;
+    width:230px;
+    background: #99ceff;
+    top: 8.3vh;
+    /* transition: 0.3s; */
+  }
+
+  .nav-left{
+    height: 100%;
+    display:contents;
+    justify-content: space-evenly;
+    align-items: center;
+    float: left;
+    margin: auto;
+  }
+
+  .side-link a{
+    color: rgb(4, 4, 4);
+    font-size: 15px;
+    margin-right: 20px;
+    cursor: pointer;
+  }
+
+  .sideList{
+    padding-top: 10px;
+  }
